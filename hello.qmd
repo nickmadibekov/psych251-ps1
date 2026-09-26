@@ -1,7 +1,9 @@
 ---
 title: "Hello, conflicts and branches"
 author: "Nick Madibekov"
-format: html
+format:
+  html:
+    embed-resources: true
 ---
 
 ```{r}
