@@ -15,4 +15,13 @@ head(cars)
 ```{r}
 plot(cars)
 ```
+
+```{r}
+library(ggplot2)
+
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point() +
+  labs(x = "Speed (mph)", y = "Stopping distance (ft)",
+       title = "Stopping distance by speed")
+```
 ---
