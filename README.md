@@ -8,3 +8,6 @@ I'm Nick Madibekov, an undergraduate at Stanford majoring in Psychology with a m
 
 ## Peer review
 Classmate's repo: https://github.com/avyue/psych251-ps1
+
+## AI use
+I used Claude to understand how Git in RStudio's Git pane connects to the Terminal
