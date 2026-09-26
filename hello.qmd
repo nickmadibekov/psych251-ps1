@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Hello, conflicts"
 author: "Nick Madibekov"
 format: html
 ---
@@ -24,4 +24,5 @@ ggplot(cars, aes(x = speed, y = dist)) +
   labs(x = "Speed (mph)", y = "Stopping distance (ft)",
        title = "Stopping distance by speed")
 ```
----
+
+------------------------------------------------------------------------
